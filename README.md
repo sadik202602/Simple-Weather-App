@@ -23,6 +23,7 @@ pip install requests
 python weather_app.py
 
 日本語
+
 これは Python で作ったシンプルな天気アプリです。
 都市名を入力すると天気と気温が表示されます。
 気温によってGIFアニメーションも変わります。
